@@ -1,5 +1,5 @@
 - name: Show Today Date
-  description: Outputs today’s date using the date command
+  description: Outputs today’s date using the date command ver1.0
   group: Utilities
   uuid: 123e4567-e89b-12d3-a456-426614174001
   loglevel: INFO
